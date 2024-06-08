@@ -63,11 +63,11 @@
 // defuser	- Defusal Kit
 // shield	- Tactical Shield
 
-// Eco
+// Force
 shield  // 2200
 mp5     // 1500
 tmp     // 1250
-deagle  //  650
+// deagle  //  650
 
 // Must-have
 // vest    //  650 *
@@ -89,4 +89,4 @@ flash   //  200 *
 primammo
 // vesthelm//  350 *
 // deagle  //  650 *
-secammo
+// secammo

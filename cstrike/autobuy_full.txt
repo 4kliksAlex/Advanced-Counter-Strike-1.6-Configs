@@ -1,3 +1,4 @@
+// Full-buy
 // This list of "buy aliases" is used by the AutoBuy system.
 // The system begins with the first alias in the list, and attempts to purchase it.
 // If a primary weapon is successfully purchased, all later primary weapon aliases are skipped.
@@ -62,23 +63,30 @@
 // defuser	- Defusal Kit
 // shield	- Tactical Shield
 
-flash
-awp
+// Force
+// shield  // 2200
+// mp5     // 1500
+// tmp     // 1250
+// deagle  //  650
 
-ak47
-m4a1
-hegren
+// Must-have
+vest    //  650 *
+flash   //  200 *
+hegren  //  300 *
+flash   //  200 *
 
-famas
-galil
-flash
+// Primary
+awp     // 4750
+aug     // 3500
+sg552   // 3500
+m4a1    // 3100
+ak47    // 2500
+famas   // 2250
+galil   // 2000
 
-shield
-mp5
-vest
-
-defuser
+// Equipments
+defuser //  200 *
 primammo
-vesthelm
-deagle
+vesthelm//  350 *
+deagle  //  650 *
 secammo

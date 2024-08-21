@@ -51,7 +51,7 @@
 // ump45	- KM UMP45
 // p90		- ES C90
 // c90		- ES C90
-// m249		- M249
+// 4		- M249
 // primammo	- Primary Ammo
 // secammo	- Secondary Ammo
 // vest		- Kevlar
@@ -64,7 +64,7 @@
 // shield	- Tactical Shield
 
 // Force
-shield  // 2200
+// shield  // 2200
 mp5     // 1500
 tmp     // 1250
 // deagle  //  650
